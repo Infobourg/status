@@ -25,7 +25,7 @@ sites:
     icon: https://www.nginx.com/wp-content/uploads/2019/10/favicon-64x46.ico
 
 status-website:
-  theme: ocean
+  theme: night
   cname: status.infobourg.dev
   logoUrl: https://raw.githubusercontent.com/Infobourg/status/master/assets/icon.png
   favicon: https://raw.githubusercontent.com/Infobourg/status/master/assets/favicon.png
