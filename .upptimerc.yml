@@ -1,27 +1,33 @@
-# Change these first
-owner: Infobourg # Your GitHub organization or username, where this repository lives
-repo: status # The name of this repository
+owner: Infobourg
+repo: status
 
 sites:
   - name: Events
-    url: https://events.infobourg.org/1
+    url: https://events.infobourg.org
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
   - name: Minecraft
     check: "tcp-ping"
     url: $SECRET_MINECRAFT_SERVER
     port: 25565
+    icon: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/favicon.ico
   - name: Map Minecraft
     url: https://minecraft.infobourg.dev
+    icon: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/favicon.ico
   - name: Portainer
     url: https://portainer.infobourg.dev
+    icon: https://www.portainer.io/hubfs/Brand%20Assets/Favicon/Portainer%20BE%20Favicon%20icon.svg
   - name: Nginx
     url: https://nginx.infobourg.dev
+    icon: https://www.nginx.com/wp-content/uploads/2019/10/favicon-64x46.ico
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  theme: ocean
   cname: status.infobourg.dev
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/Infobourg/status/master/assets/icon.png
+  logoUrl: https://status.infobourg.dev/icon.png
+  favicon: https://status.infobourg.dev/favicon.png
   name: Infobourg
   introTitle: "Infobourg Status"
   introMessage: This page shows **real-time** status of the Infobourg websites and services.
@@ -31,5 +37,5 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+assignees:
+  - IliasRedissi
