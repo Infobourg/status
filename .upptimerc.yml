@@ -4,8 +4,11 @@ repo: status # The name of this repository
 
 sites:
   - name: Events
-    url: https://events.infobourg.org
+    url: https://events.infobourg.org/1
   - name: Minecraft
+    check: "tcp-ping"
+    url: $SECRET_MINECRAFT_SERVER
+    port: 25565
   - name: Map Minecraft
     url: https://minecraft.infobourg.dev
   - name: Portainer
@@ -18,7 +21,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.infobourg.dev
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.png
+  logoUrl: https://raw.githubusercontent.com/Infobourg/status/master/assets/icon.png
   name: Infobourg
   introTitle: "Infobourg Status"
   introMessage: This page shows **real-time** status of the Infobourg websites and services.
