@@ -8,6 +8,7 @@ sites:
       - 200
       - 201
       - 404
+    icon: https://events.infobourg.org/assets/favicons/android-icon-192x192.png
   - name: Minecraft
     check: "tcp-ping"
     url: $SECRET_MINECRAFT_SERVER
@@ -26,8 +27,8 @@ sites:
 status-website:
   theme: ocean
   cname: status.infobourg.dev
-  logoUrl: https://status.infobourg.dev/icon.png
-  favicon: https://status.infobourg.dev/favicon.png
+  logoUrl: https://raw.githubusercontent.com/Infobourg/status/master/assets/icon.png
+  favicon: https://raw.githubusercontent.com/Infobourg/status/master/assets/favicon.png
   name: Infobourg
   introTitle: "Infobourg Status"
   introMessage: This page shows **real-time** status of the Infobourg websites and services.
