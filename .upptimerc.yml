@@ -17,6 +17,9 @@ sites:
   - name: Map Minecraft
     url: https://minecraft.infobourg.dev
     icon: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/favicon.ico
+  - name: Wiki
+    url: https://wiki.infobourg.org
+    icon: https://static.requarks.io/logo/wikijs-butterfly.svg
   - name: Portainer
     url: https://portainer.infobourg.dev
     icon: https://www.portainer.io/hubfs/Brand%20Assets/Favicon/Portainer%20BE%20Favicon%20icon.svg
