@@ -4,18 +4,20 @@
     "url": "https://events.infobourg.org",
     "icon": "https://events.infobourg.org/assets/favicons/android-icon-192x192.png",
     "slug": "events",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 450,
-    "timeDay": 706,
-    "timeWeek": 481,
-    "timeMonth": 445,
-    "timeYear": 450,
-    "dailyMinutesDown": {}
+    "time": 448,
+    "timeDay": 314,
+    "timeWeek": 442,
+    "timeMonth": 449,
+    "timeYear": 448,
+    "dailyMinutesDown": {
+      "2022-01-26": 0
+    }
   },
   {
     "name": "Minecraft",
@@ -29,8 +31,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 111,
-    "timeDay": 159,
-    "timeWeek": 131,
+    "timeDay": 92,
+    "timeWeek": 121,
     "timeMonth": 113,
     "timeYear": 111,
     "dailyMinutesDown": {}
@@ -46,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 534,
-    "timeDay": 895,
-    "timeWeek": 650,
-    "timeMonth": 534,
-    "timeYear": 534,
+    "time": 531,
+    "timeDay": 400,
+    "timeWeek": 604,
+    "timeMonth": 532,
+    "timeYear": 531,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 666,
-    "timeDay": 848,
-    "timeWeek": 762,
-    "timeMonth": 670,
-    "timeYear": 666,
+    "time": 663,
+    "timeDay": 517,
+    "timeWeek": 714,
+    "timeMonth": 666,
+    "timeYear": 663,
     "dailyMinutesDown": {}
   },
   {
@@ -83,9 +85,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 514,
-    "timeDay": 865,
-    "timeWeek": 580,
-    "timeMonth": 525,
+    "timeDay": 471,
+    "timeWeek": 546,
+    "timeMonth": 527,
     "timeYear": 514,
     "dailyMinutesDown": {}
   },
@@ -100,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 503,
-    "timeDay": 699,
-    "timeWeek": 598,
-    "timeMonth": 503,
-    "timeYear": 503,
+    "time": 501,
+    "timeDay": 377,
+    "timeWeek": 531,
+    "timeMonth": 502,
+    "timeYear": 501,
     "dailyMinutesDown": {}
   }
 ]
