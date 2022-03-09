@@ -4,19 +4,19 @@
     "url": "https://events.infobourg.org",
     "icon": "https://events.infobourg.org/assets/favicons/android-icon-192x192.png",
     "slug": "events",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 412,
-    "timeDay": 482,
-    "timeWeek": 358,
-    "timeMonth": 356,
-    "timeYear": 412,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 411,
+    "timeDay": 414,
+    "timeWeek": 356,
+    "timeMonth": 355,
+    "timeYear": 411,
     "dailyMinutesDown": {
-      "2022-03-09": 0
+      "2022-03-09": 9
     }
   },
   {
