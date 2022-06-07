@@ -12,7 +12,7 @@
     "uptimeYear": "99.99%",
     "time": 412,
     "timeDay": 156,
-    "timeWeek": 598,
+    "timeWeek": 370,
     "timeMonth": 487,
     "timeYear": 412,
     "dailyMinutesDown": {
@@ -43,18 +43,20 @@
     "url": "https://minecraft.infobourg.dev",
     "icon": "https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/favicon.ico",
     "slug": "map-minecraft",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 537,
-    "timeDay": 460,
-    "timeWeek": 592,
-    "timeMonth": 609,
-    "timeYear": 537,
-    "dailyMinutesDown": {}
+    "time": 536,
+    "timeDay": 451,
+    "timeWeek": 573,
+    "timeMonth": 604,
+    "timeYear": 536,
+    "dailyMinutesDown": {
+      "2022-06-07": 0
+    }
   },
   {
     "name": "Wiki",
