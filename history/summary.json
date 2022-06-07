@@ -27,37 +27,35 @@
     "slug": "minecraft",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 112,
     "timeDay": 88,
     "timeWeek": 115,
     "timeMonth": 125,
     "timeYear": 112,
-    "dailyMinutesDown": {
-      "2022-06-07": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Map Minecraft",
     "url": "https://minecraft.infobourg.dev",
     "icon": "https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/favicon.ico",
     "slug": "map-minecraft",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "97.80%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "97.33%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 538,
-    "timeDay": 567,
-    "timeWeek": 595,
-    "timeMonth": 609,
+    "timeDay": 559,
+    "timeWeek": 589,
+    "timeMonth": 606,
     "timeYear": 538,
     "dailyMinutesDown": {
-      "2022-06-07": 32
+      "2022-06-07": 38
     }
   },
   {
