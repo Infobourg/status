@@ -15,7 +15,7 @@ sites:
     port: 25565
     icon: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/favicon.ico
   - name: Map Minecraft
-    url: https://minecraft.infobourg.dev
+    url: https://minecraft.infobourg.org
     icon: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/favicon.ico
   - name: Wiki
     url: https://wiki.infobourg.org
