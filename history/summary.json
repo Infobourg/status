@@ -45,18 +45,19 @@
     "url": "https://minecraft.infobourg.org",
     "icon": "https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/favicon.ico",
     "slug": "map-minecraft",
-    "status": "up",
-    "uptime": "83.33%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "83.36%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "83.33%",
+    "uptimeYear": "83.36%",
     "time": 523,
     "timeDay": 366,
     "timeWeek": 409,
     "timeMonth": 402,
     "timeYear": 523,
     "dailyMinutesDown": {
+      "2022-09-20": 2,
       "2022-07-27": 1133,
       "2022-07-26": 1440,
       "2022-07-25": 1440,
@@ -114,10 +115,10 @@
     "url": "https://wiki.infobourg.org",
     "icon": "https://static.requarks.io/logo/wikijs-butterfly.svg",
     "slug": "wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 727,
@@ -125,17 +126,19 @@
     "timeWeek": 813,
     "timeMonth": 832,
     "timeYear": 727,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-20": 1
+    }
   },
   {
     "name": "Portainer",
     "url": "https://portainer.infobourg.dev",
     "icon": "https://www.portainer.io/hubfs/Brand%20Assets/Favicon/Portainer%20BE%20Favicon%20icon.svg",
     "slug": "portainer",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 552,
@@ -143,16 +146,18 @@
     "timeWeek": 684,
     "timeMonth": 642,
     "timeYear": 552,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-20": 1
+    }
   },
   {
     "name": "Nginx",
     "url": "https://nginx.infobourg.dev",
     "icon": "https://www.nginx.com/wp-content/uploads/2019/10/favicon-64x46.ico",
     "slug": "nginx",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -161,6 +166,8 @@
     "timeWeek": 604,
     "timeMonth": 618,
     "timeYear": 533,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-20": 0
+    }
   }
 ]
