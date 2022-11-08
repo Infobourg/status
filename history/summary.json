@@ -48,11 +48,11 @@
     "icon": "https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/favicon.ico",
     "slug": "map-minecraft",
     "status": "up",
-    "uptime": "85.75%",
+    "uptime": "85.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "85.75%",
+    "uptimeYear": "85.79%",
     "time": 527,
     "timeDay": 386,
     "timeWeek": 386,
@@ -117,9 +117,9 @@
     "url": "https://wiki.infobourg.org",
     "icon": "https://static.requarks.io/logo/wikijs-butterfly.svg",
     "slug": "wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -128,7 +128,9 @@
     "timeWeek": 808,
     "timeMonth": 819,
     "timeYear": 763,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-08": 0
+    }
   },
   {
     "name": "Portainer",
