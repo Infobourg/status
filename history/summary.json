@@ -26,9 +26,9 @@
     "url": "$SECRET_MINECRAFT_SERVER",
     "icon": "https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/favicon.ico",
     "slug": "minecraft",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -37,25 +37,28 @@
     "timeWeek": 160,
     "timeMonth": 174,
     "timeYear": 171,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-13": 0
+    }
   },
   {
     "name": "Map Minecraft",
     "url": "https://minecraft.infobourg.org",
     "icon": "https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/favicon.ico",
     "slug": "map-minecraft",
-    "status": "up",
+    "status": "down",
     "uptime": "92.56%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 429,
+    "time": 428,
     "timeDay": 279,
     "timeWeek": 351,
     "timeMonth": 369,
     "timeYear": 395,
     "dailyMinutesDown": {
+      "2023-09-13": 0,
       "2022-11-22": 40,
       "2022-09-20": 15
     }
