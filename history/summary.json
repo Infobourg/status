@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 471,
-    "timeDay": 387,
-    "timeWeek": 314,
-    "timeMonth": 333,
-    "timeYear": 441,
+    "timeDay": 272,
+    "timeWeek": 295,
+    "timeMonth": 332,
+    "timeYear": 440,
     "dailyMinutesDown": {
       "2023-04-18": 57
     }
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 169,
-    "timeDay": 107,
-    "timeWeek": 172,
-    "timeMonth": 167,
-    "timeYear": 170,
+    "timeDay": 136,
+    "timeWeek": 160,
+    "timeMonth": 168,
+    "timeYear": 169,
     "dailyMinutesDown": {}
   },
   {
@@ -43,15 +43,15 @@
     "icon": "https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/favicon.ico",
     "slug": "map-minecraft",
     "status": "up",
-    "uptime": "93.15%",
+    "uptime": "93.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 398,
-    "timeDay": 278,
-    "timeWeek": 378,
-    "timeMonth": 376,
+    "timeDay": 344,
+    "timeWeek": 360,
+    "timeMonth": 379,
     "timeYear": 370,
     "dailyMinutesDown": {
       "2022-11-22": 40
@@ -67,16 +67,15 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.89%",
-    "time": 773,
-    "timeDay": 754,
-    "timeWeek": 768,
-    "timeMonth": 742,
+    "uptimeYear": "99.92%",
+    "time": 774,
+    "timeDay": 580,
+    "timeWeek": 693,
+    "timeMonth": 740,
     "timeYear": 748,
     "dailyMinutesDown": {
       "2023-01-25": 16,
-      "2022-11-22": 40,
-      "2022-11-09": 370
+      "2022-11-22": 40
     }
   },
   {
@@ -91,9 +90,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 584,
-    "timeDay": 466,
-    "timeWeek": 583,
-    "timeMonth": 597,
+    "timeDay": 468,
+    "timeWeek": 550,
+    "timeMonth": 599,
     "timeYear": 570,
     "dailyMinutesDown": {
       "2023-01-25": 39,
@@ -112,9 +111,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 554,
-    "timeDay": 466,
-    "timeWeek": 555,
-    "timeMonth": 561,
+    "timeDay": 474,
+    "timeWeek": 522,
+    "timeMonth": 564,
     "timeYear": 547,
     "dailyMinutesDown": {
       "2023-01-25": 39,
