@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 470,
-    "timeDay": 480,
-    "timeWeek": 379,
-    "timeMonth": 369,
+    "time": 469,
+    "timeDay": 281,
+    "timeWeek": 373,
+    "timeMonth": 367,
     "timeYear": 441,
     "dailyMinutesDown": {
       "2023-04-18": 57
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 170,
-    "timeDay": 211,
-    "timeWeek": 186,
-    "timeMonth": 178,
+    "time": 171,
+    "timeDay": 129,
+    "timeWeek": 180,
+    "timeMonth": 175,
     "timeYear": 170,
     "dailyMinutesDown": {}
   },
@@ -43,19 +43,17 @@
     "icon": "https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/favicon.ico",
     "slug": "map-minecraft",
     "status": "up",
-    "uptime": "93.28%",
+    "uptime": "93.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 394,
-    "timeDay": 464,
-    "timeWeek": 404,
-    "timeMonth": 392,
+    "time": 393,
+    "timeDay": 271,
+    "timeWeek": 393,
+    "timeMonth": 385,
     "timeYear": 371,
-    "dailyMinutesDown": {
-      "2022-11-22": 40
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wiki",
@@ -69,13 +67,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 777,
-    "timeDay": 794,
-    "timeWeek": 787,
-    "timeMonth": 800,
+    "timeDay": 640,
+    "timeWeek": 794,
+    "timeMonth": 794,
     "timeYear": 751,
     "dailyMinutesDown": {
-      "2023-01-25": 16,
-      "2022-11-22": 40
+      "2023-01-25": 16
     }
   },
   {
@@ -90,13 +87,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 587,
-    "timeDay": 676,
-    "timeWeek": 628,
-    "timeMonth": 637,
+    "timeDay": 473,
+    "timeWeek": 630,
+    "timeMonth": 630,
     "timeYear": 572,
     "dailyMinutesDown": {
-      "2023-01-25": 39,
-      "2022-11-22": 39
+      "2023-01-25": 39
     }
   },
   {
@@ -110,14 +106,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 556,
-    "timeDay": 828,
+    "time": 555,
+    "timeDay": 457,
     "timeWeek": 618,
-    "timeMonth": 587,
+    "timeMonth": 581,
     "timeYear": 547,
     "dailyMinutesDown": {
-      "2023-01-25": 39,
-      "2022-11-22": 39
+      "2023-01-25": 39
     }
   }
 ]
