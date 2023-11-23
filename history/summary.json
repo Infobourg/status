@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 469,
-    "timeDay": 281,
-    "timeWeek": 373,
-    "timeMonth": 367,
+    "timeDay": 277,
+    "timeWeek": 369,
+    "timeMonth": 364,
     "timeYear": 441,
     "dailyMinutesDown": {
       "2023-04-18": 57
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 171,
-    "timeDay": 129,
-    "timeWeek": 180,
-    "timeMonth": 175,
+    "timeDay": 121,
+    "timeWeek": 178,
+    "timeMonth": 173,
     "timeYear": 170,
     "dailyMinutesDown": {}
   },
@@ -47,11 +47,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 393,
-    "timeDay": 271,
-    "timeWeek": 393,
-    "timeMonth": 385,
+    "timeDay": 270,
+    "timeWeek": 382,
+    "timeMonth": 379,
     "timeYear": 371,
     "dailyMinutesDown": {}
   },
@@ -65,11 +65,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 777,
-    "timeDay": 640,
-    "timeWeek": 794,
-    "timeMonth": 794,
+    "timeDay": 471,
+    "timeWeek": 761,
+    "timeMonth": 782,
     "timeYear": 751,
     "dailyMinutesDown": {
       "2023-01-25": 16
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 587,
-    "timeDay": 473,
-    "timeWeek": 630,
-    "timeMonth": 630,
-    "timeYear": 572,
+    "time": 586,
+    "timeDay": 456,
+    "timeWeek": 629,
+    "timeMonth": 623,
+    "timeYear": 573,
     "dailyMinutesDown": {
       "2023-01-25": 39
     }
@@ -107,10 +107,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 555,
-    "timeDay": 457,
-    "timeWeek": 618,
-    "timeMonth": 581,
-    "timeYear": 547,
+    "timeDay": 462,
+    "timeWeek": 615,
+    "timeMonth": 569,
+    "timeYear": 548,
     "dailyMinutesDown": {
       "2023-01-25": 39
     }
