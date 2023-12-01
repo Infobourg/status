@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 465,
-    "timeDay": 363,
-    "timeWeek": 302,
-    "timeMonth": 362,
-    "timeYear": 439,
+    "timeDay": 280,
+    "timeWeek": 288,
+    "timeMonth": 355,
+    "timeYear": 438,
     "dailyMinutesDown": {
       "2023-04-18": 57
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 171,
-    "timeDay": 130,
-    "timeWeek": 142,
-    "timeMonth": 168,
+    "timeDay": 212,
+    "timeWeek": 149,
+    "timeMonth": 170,
     "timeYear": 169,
     "dailyMinutesDown": {}
   },
@@ -43,15 +43,15 @@
     "icon": "https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/favicon.ico",
     "slug": "map-minecraft",
     "status": "up",
-    "uptime": "93.36%",
+    "uptime": "93.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 388,
-    "timeDay": 280,
+    "time": 389,
+    "timeDay": 336,
     "timeWeek": 284,
-    "timeMonth": 361,
+    "timeMonth": 359,
     "timeYear": 369,
     "dailyMinutesDown": {}
   },
@@ -67,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 775,
-    "timeDay": 735,
-    "timeWeek": 667,
-    "timeMonth": 770,
+    "timeDay": 578,
+    "timeWeek": 665,
+    "timeMonth": 768,
     "timeYear": 750,
     "dailyMinutesDown": {
       "2023-01-25": 16
@@ -86,10 +86,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 584,
-    "timeDay": 391,
-    "timeWeek": 451,
-    "timeMonth": 560,
+    "time": 585,
+    "timeDay": 566,
+    "timeWeek": 449,
+    "timeMonth": 562,
     "timeYear": 571,
     "dailyMinutesDown": {
       "2023-01-25": 39
@@ -107,9 +107,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 554,
-    "timeDay": 474,
-    "timeWeek": 435,
-    "timeMonth": 540,
+    "timeDay": 563,
+    "timeWeek": 449,
+    "timeMonth": 539,
     "timeYear": 546,
     "dailyMinutesDown": {
       "2023-01-25": 39
