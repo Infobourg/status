@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 465,
-    "timeDay": 280,
-    "timeWeek": 288,
-    "timeMonth": 355,
+    "time": 464,
+    "timeDay": 329,
+    "timeWeek": 295,
+    "timeMonth": 352,
     "timeYear": 438,
     "dailyMinutesDown": {
       "2023-04-18": 57
@@ -32,7 +32,7 @@
     "uptimeYear": "100.00%",
     "time": 171,
     "timeDay": 212,
-    "timeWeek": 149,
+    "timeWeek": 160,
     "timeMonth": 170,
     "timeYear": 169,
     "dailyMinutesDown": {}
@@ -43,14 +43,14 @@
     "icon": "https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/favicon.ico",
     "slug": "map-minecraft",
     "status": "up",
-    "uptime": "93.37%",
+    "uptime": "93.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 389,
-    "timeDay": 336,
-    "timeWeek": 284,
+    "timeDay": 470,
+    "timeWeek": 313,
     "timeMonth": 359,
     "timeYear": 369,
     "dailyMinutesDown": {}
@@ -67,10 +67,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 775,
-    "timeDay": 578,
-    "timeWeek": 665,
-    "timeMonth": 768,
-    "timeYear": 750,
+    "timeDay": 799,
+    "timeWeek": 684,
+    "timeMonth": 758,
+    "timeYear": 749,
     "dailyMinutesDown": {
       "2023-01-25": 16
     }
@@ -87,9 +87,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 585,
-    "timeDay": 566,
-    "timeWeek": 449,
-    "timeMonth": 562,
+    "timeDay": 703,
+    "timeWeek": 493,
+    "timeMonth": 563,
     "timeYear": 571,
     "dailyMinutesDown": {
       "2023-01-25": 39
@@ -107,9 +107,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 554,
-    "timeDay": 563,
-    "timeWeek": 449,
-    "timeMonth": 539,
+    "timeDay": 629,
+    "timeWeek": 473,
+    "timeMonth": 537,
     "timeYear": 546,
     "dailyMinutesDown": {
       "2023-01-25": 39
