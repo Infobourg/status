@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 453,
-    "timeDay": 154,
-    "timeWeek": 269,
+    "timeDay": 377,
+    "timeWeek": 295,
     "timeMonth": 309,
-    "timeYear": 388,
+    "timeYear": 379,
     "dailyMinutesDown": {
       "2023-04-18": 57
     }
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 171,
-    "timeDay": 134,
-    "timeWeek": 164,
-    "timeMonth": 163,
-    "timeYear": 169,
+    "timeDay": 143,
+    "timeWeek": 154,
+    "timeMonth": 161,
+    "timeYear": 168,
     "dailyMinutesDown": {}
   },
   {
@@ -43,15 +43,15 @@
     "icon": "https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/favicon.ico",
     "slug": "map-minecraft",
     "status": "up",
-    "uptime": "93.48%",
+    "uptime": "93.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 388,
-    "timeDay": 341,
-    "timeWeek": 350,
-    "timeMonth": 342,
+    "timeDay": 364,
+    "timeWeek": 332,
+    "timeMonth": 338,
     "timeYear": 368,
     "dailyMinutesDown": {}
   },
@@ -66,10 +66,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 773,
-    "timeDay": 570,
-    "timeWeek": 653,
-    "timeMonth": 689,
+    "time": 774,
+    "timeDay": 1035,
+    "timeWeek": 688,
+    "timeMonth": 693,
     "timeYear": 745,
     "dailyMinutesDown": {
       "2023-01-25": 16
@@ -87,10 +87,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 585,
-    "timeDay": 482,
-    "timeWeek": 536,
-    "timeMonth": 530,
-    "timeYear": 567,
+    "timeDay": 588,
+    "timeWeek": 521,
+    "timeMonth": 527,
+    "timeYear": 566,
     "dailyMinutesDown": {
       "2023-01-25": 39
     }
@@ -107,8 +107,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 554,
-    "timeDay": 512,
-    "timeWeek": 513,
+    "timeDay": 593,
+    "timeWeek": 502,
     "timeMonth": 510,
     "timeYear": 543,
     "dailyMinutesDown": {
