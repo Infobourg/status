@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 453,
-    "timeDay": 281,
-    "timeWeek": 299,
-    "timeMonth": 296,
+    "timeDay": 466,
+    "timeWeek": 321,
+    "timeMonth": 303,
     "timeYear": 370,
     "dailyMinutesDown": {
       "2023-04-18": 57
@@ -31,8 +31,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 171,
-    "timeDay": 91,
-    "timeWeek": 136,
+    "timeDay": 151,
+    "timeWeek": 137,
     "timeMonth": 154,
     "timeYear": 168,
     "dailyMinutesDown": {}
@@ -43,15 +43,15 @@
     "icon": "https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/favicon.ico",
     "slug": "map-minecraft",
     "status": "up",
-    "uptime": "93.52%",
+    "uptime": "93.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 389,
-    "timeDay": 461,
-    "timeWeek": 374,
-    "timeMonth": 338,
+    "time": 390,
+    "timeDay": 614,
+    "timeWeek": 422,
+    "timeMonth": 350,
     "timeYear": 368,
     "dailyMinutesDown": {}
   },
@@ -67,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 776,
-    "timeDay": 740,
-    "timeWeek": 746,
-    "timeMonth": 696,
+    "timeDay": 811,
+    "timeWeek": 792,
+    "timeMonth": 699,
     "timeYear": 744,
     "dailyMinutesDown": {
       "2023-01-25": 16
@@ -87,10 +87,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 586,
-    "timeDay": 472,
-    "timeWeek": 520,
-    "timeMonth": 511,
-    "timeYear": 565,
+    "timeDay": 678,
+    "timeWeek": 545,
+    "timeMonth": 517,
+    "timeYear": 566,
     "dailyMinutesDown": {
       "2023-01-25": 39
     }
@@ -107,10 +107,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 553,
-    "timeDay": 408,
-    "timeWeek": 484,
-    "timeMonth": 496,
-    "timeYear": 541,
+    "timeDay": 612,
+    "timeWeek": 516,
+    "timeMonth": 504,
+    "timeYear": 542,
     "dailyMinutesDown": {
       "2023-01-25": 39
     }
