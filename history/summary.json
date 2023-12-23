@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 446,
-    "timeDay": 288,
-    "timeWeek": 311,
-    "timeMonth": 292,
-    "timeYear": 368,
+    "time": 445,
+    "timeDay": 205,
+    "timeWeek": 308,
+    "timeMonth": 289,
+    "timeYear": 367,
     "dailyMinutesDown": {
       "2023-04-18": 57
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 171,
-    "timeDay": 109,
-    "timeWeek": 126,
-    "timeMonth": 148,
+    "timeDay": 153,
+    "timeWeek": 129,
+    "timeMonth": 149,
     "timeYear": 167,
     "dailyMinutesDown": {}
   },
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 390,
-    "timeDay": 573,
-    "timeWeek": 525,
-    "timeMonth": 367,
-    "timeYear": 370,
+    "time": 391,
+    "timeDay": 644,
+    "timeWeek": 578,
+    "timeMonth": 379,
+    "timeYear": 371,
     "dailyMinutesDown": {}
   },
   {
@@ -61,15 +61,15 @@
     "icon": "https://static.requarks.io/logo/wikijs-butterfly.svg",
     "slug": "wiki",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 775,
-    "timeDay": 568,
-    "timeWeek": 793,
-    "timeMonth": 693,
+    "time": 776,
+    "timeDay": 954,
+    "timeWeek": 827,
+    "timeMonth": 709,
     "timeYear": 743,
     "dailyMinutesDown": {
       "2023-01-25": 16
@@ -87,10 +87,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 586,
-    "timeDay": 467,
-    "timeWeek": 556,
-    "timeMonth": 508,
-    "timeYear": 565,
+    "timeDay": 830,
+    "timeWeek": 618,
+    "timeMonth": 521,
+    "timeYear": 566,
     "dailyMinutesDown": {
       "2023-01-25": 39
     }
@@ -107,9 +107,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 553,
-    "timeDay": 475,
-    "timeWeek": 506,
-    "timeMonth": 485,
+    "timeDay": 672,
+    "timeWeek": 548,
+    "timeMonth": 492,
     "timeYear": 541,
     "dailyMinutesDown": {
       "2023-01-25": 39
