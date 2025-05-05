@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 356,
-    "timeDay": 302,
-    "timeWeek": 419,
+    "timeDay": 321,
+    "timeWeek": 398,
     "timeMonth": 363,
     "timeYear": 365,
     "dailyMinutesDown": {}
@@ -23,18 +23,19 @@
     "icon": "https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/favicon.ico",
     "slug": "minecraft",
     "status": "down",
-    "uptime": "60.90%",
+    "uptime": "60.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 120,
+    "time": 119,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-04": 10,
+      "2025-05-05": 10,
+      "2025-05-04": 1440,
       "2025-05-03": 1440,
       "2025-05-02": 1440,
       "2025-05-01": 1440,
@@ -397,8 +398,7 @@
       "2024-05-09": 1440,
       "2024-05-08": 1440,
       "2024-05-07": 1440,
-      "2024-05-06": 1440,
-      "2024-05-05": 1440
+      "2024-05-06": 1440
     }
   },
   {
@@ -407,18 +407,19 @@
     "icon": "https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/favicon.ico",
     "slug": "map-minecraft",
     "status": "down",
-    "uptime": "57.04%",
+    "uptime": "56.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 534,
+    "time": 548,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-04": 10,
+      "2025-05-05": 10,
+      "2025-05-04": 1440,
       "2025-05-03": 1440,
       "2025-05-02": 1440,
       "2025-05-01": 1440,
@@ -781,8 +782,7 @@
       "2024-05-09": 1440,
       "2024-05-08": 1440,
       "2024-05-07": 1440,
-      "2024-05-06": 1440,
-      "2024-05-05": 1440
+      "2024-05-06": 1440
     }
   },
   {
@@ -791,18 +791,19 @@
     "icon": "https://static.requarks.io/logo/wikijs-butterfly.svg",
     "slug": "wiki",
     "status": "down",
-    "uptime": "60.61%",
+    "uptime": "60.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 746,
+    "time": 754,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-04": 10,
+      "2025-05-05": 10,
+      "2025-05-04": 1440,
       "2025-05-03": 1440,
       "2025-05-02": 1440,
       "2025-05-01": 1440,
@@ -1165,8 +1166,7 @@
       "2024-05-09": 1440,
       "2024-05-08": 1440,
       "2024-05-07": 1440,
-      "2024-05-06": 1440,
-      "2024-05-05": 1440
+      "2024-05-06": 1440
     }
   },
   {
@@ -1175,18 +1175,19 @@
     "icon": "https://www.portainer.io/hubfs/Brand%20Assets/Favicon/Portainer%20BE%20Favicon%20icon.svg",
     "slug": "portainer",
     "status": "down",
-    "uptime": "60.90%",
+    "uptime": "60.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 560,
+    "time": 568,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-04": 10,
+      "2025-05-05": 10,
+      "2025-05-04": 1440,
       "2025-05-03": 1440,
       "2025-05-02": 1440,
       "2025-05-01": 1440,
@@ -1549,8 +1550,7 @@
       "2024-05-09": 1440,
       "2024-05-08": 1440,
       "2024-05-07": 1440,
-      "2024-05-06": 1440,
-      "2024-05-05": 1440
+      "2024-05-06": 1440
     }
   },
   {
@@ -1559,18 +1559,19 @@
     "icon": "https://www.nginx.com/wp-content/uploads/2019/10/favicon-64x46.ico",
     "slug": "nginx",
     "status": "down",
-    "uptime": "60.90%",
+    "uptime": "60.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 525,
+    "time": 526,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-04": 10,
+      "2025-05-05": 10,
+      "2025-05-04": 1440,
       "2025-05-03": 1440,
       "2025-05-02": 1440,
       "2025-05-01": 1440,
@@ -1933,8 +1934,7 @@
       "2024-05-09": 1440,
       "2024-05-08": 1440,
       "2024-05-07": 1440,
-      "2024-05-06": 1440,
-      "2024-05-05": 1440
+      "2024-05-06": 1440
     }
   }
 ]
